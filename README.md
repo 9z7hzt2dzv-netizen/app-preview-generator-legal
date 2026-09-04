@@ -22,13 +22,12 @@ code in it at all.
 - A live canvas laid out in design points, with draggable, selectable layers and undo.
 - Copy, captures, tint, device dressing and attachments, per frame.
 
-**Eighteen template groups**
-- Eight classic groups — Studio Mono, Midnight, Aurora, Bold Type, Paper Press, Neon Grid,
-  Panorama, Showcase — that mix their ground from colour.
-- Ten futurist groups — Holo Foil, Vector Horizon, Cathode, Topograph, Substrate,
-  Dot Matrix, Orbital, Lumen, Telemetry, Blueprint — that *draw* their ground: scanlines,
-  contours, a perspective grid running to a horizon, board routing, a dot lattice, a star
-  field, signal traces, drafting rules.
+**Template groups**
+- Classic groups — Studio Mono, Midnight, Aurora, Bold Type and others — that mix their
+  ground from colour.
+- Futurist groups — Holo Foil, Vector Horizon, Cathode, Topograph, Orbital and others —
+  that *draw* their ground: scanlines, contours, a perspective grid running to a horizon,
+  board routing, a dot lattice, a star field, signal traces, drafting rules.
 - Switching group re-lays every frame. Your copy and your captures survive it.
 
 **Device framing**
