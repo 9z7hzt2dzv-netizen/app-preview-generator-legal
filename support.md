@@ -4,7 +4,14 @@
 
 ## Contact
 
-**9z7hzt2dzv@privaterelay.appleid.com**
+**[Open an issue](https://github.com/9z7hzt2dzv-netizen/app-preview-generator-legal/issues)**
+
+There is no support mailbox. Everything goes through the tracker, so every report has a
+number, a thread, and an answer the next reader finds instead of writing the same message
+again. Search the open and closed issues first — the thing may already have one.
+
+The **Report a bug** row on the About screen opens the form with your version and platform
+already filled in.
 
 Write in English. A reply usually comes within a few days.
 
